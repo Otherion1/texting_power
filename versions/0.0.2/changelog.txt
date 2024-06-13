@@ -1,1 +1,1 @@
-exampler
+No hay "0.0.2", esto es solo una prueba del sistema de modpack update checker.
