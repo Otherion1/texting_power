@@ -1,1 +1,7 @@
-No hay "0.0.2", esto es solo una prueba del sistema de modpack update checker.
+Changelog:
+1. Updated mods. (Now apocalyse doens't disconnect on dedicated server)
+2. Added 3 mods:
+ - Spartan Weaponry
+ - Traveler's Backpack
+ - Lootr
+3. Changed some mod config.
