@@ -6,5 +6,6 @@ Changelog:
  - Lootr
  - Authme
  - Harcore Revival
- - Sounds [Fabric]
+ - Sounds [Fabric] (+ MRU API)
+ - Chunky
 3. Changed some mod config.
