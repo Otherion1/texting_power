@@ -1,7 +1,10 @@
 Changelog:
-1. Updated mods. (Now apocalyse doens't disconnect on dedicated server)
+1. Updated mods. (Now Apocalypse doesn't disconnect crash on dedicated servers)
 2. Added 3 mods:
  - Spartan Weaponry
  - Traveler's Backpack
  - Lootr
+ - Authme
+ - Harcore Revival
+ - Sounds [Fabric]
 3. Changed some mod config.
